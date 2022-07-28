@@ -1,0 +1,28 @@
+.form-check-input{
+    background-color: black !important;
+}
+
+.sa-button{
+    margin-right: 10px !important;
+}
+
+.sa-buttonn{
+    margin-right: 80px !important;
+}
+
+@media screen and (max-width:570px) {
+    .sa-hide{
+        display: none !important;
+    } 
+}
+
+@media screen and (max-width:570px) {
+    .sa-left_Section{
+        display: flex;
+        justify-content: space-between !important;
+        align-items: center !important;
+        text-align: center;
+        margin-left: 18% !important;
+        margin-top: 20px;
+    } 
+}
